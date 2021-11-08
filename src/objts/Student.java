@@ -63,7 +63,6 @@ public class Student extends Person{
 		System.out.println("| CODE:....... " + this.getCode());
 		System.out.println("| FIRST NAME:. " + this.getFirstName());
 		System.out.println("| LAST NAME:.. " + this.getLastName());
-		System.out.println("| LAST NAME:.. " + this.getState());
 		System.out.println("| STATUS:..... " + this.getState());
 		System.out.println("---------------------------------");
 	}
